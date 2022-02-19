@@ -29,11 +29,10 @@
 
 ### step 4: 
 
-$1=login
-$2=password
+$1=password
 
 <br>
 
-    sudo sh ./install.sh $1 $2
+    sudo sh ./install.sh $1
     
-    ex: sudo sh ./install.sh your_login your_password
+    ex: sudo sh ./install.sh your_password
