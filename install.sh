@@ -3,9 +3,9 @@
 
 sudo apt update -y
 apt  install expect -y
-sudo apt install xfce4
-sudo apt install xfce4-goodies
-sudo apt install tightvncserver
+sudo apt install xfce4 -y
+sudo apt install xfce4-goodies -y
+sudo apt install tightvncserver -y
 vncserver
 expect "Password:"
 send "$1\r"
