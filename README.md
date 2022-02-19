@@ -30,7 +30,7 @@
 ### step 4: 
 
 $1=login
-$2=passsword
+$2=password
 
 <br>
 
