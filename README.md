@@ -29,10 +29,14 @@
 
 ### step 4: 
 
-$1=password
 
 <br>
 
-    sudo sh ./install.sh $1
-    
-    ex: sudo sh ./install.sh your_password
+    sudo sh ./install.sh
+
+
+
+<br>
+    - Choose `lignthdme` I Interface
+    - Enter Your Password & Verify Password
+    - Choose `n`
