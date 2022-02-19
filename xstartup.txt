@@ -1,0 +1,5 @@
+#!/bin/bash
+xrdb $HOME/.Xresources
+startxfce4 &
+autocutsel -fork
+xsetroot -solid grey -cursor_name left_ptr
