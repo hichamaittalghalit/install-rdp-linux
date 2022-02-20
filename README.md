@@ -37,6 +37,6 @@
 
 
 <br>
-    - Choose `lignthdme` I Interface
-    - Enter Your Password & Verify Password
+    - Choose `lignthdme` I Interface <br>
+    - Enter Your Password & Verify Password <br>
     - Choose `n`
